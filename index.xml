@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jun 2023 10:25:33 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyFirstArticles</title>
+      <link>/posts/myfirstarticles/</link>
+      <pubDate>Wed, 28 Jun 2023 10:25:33 +0800</pubDate>
+      
+      <guid>/posts/myfirstarticles/</guid>
+      <description>
+        
+          
+            这是我的第一篇博客文章 我在配置中遇到的问题： (1)电脑中对于有一些文件夹进行隐藏 (2)cmd指令输入位置错误导致文件创建位置错误 我的解决方法： (1)向同学与导师请教 (2)重复观看教学，仔细认真一点，再通过资料帮助学习。 
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
